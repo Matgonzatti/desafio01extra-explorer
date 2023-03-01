@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+#divMain {
+  margin: 0 auto;
+  width: 540px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+}
+
+#divMain h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  color: #3F3D56;
+  margin: 0 auto 16px;
+}
+
+#flutuar {
+  margin: 0 auto 32px;
+}
+
+#divMain p + p {
+  margin: 32px auto 0;
+}
+
+span {
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+#line {
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin: 64px auto 16px;
+}
+
+#footer {
+  margin: 0 auto 64px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #3F3D56;
+}
+
+#footer a + a {
+  margin-left: 40.83px;
+}
+
+#wave {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
